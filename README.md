@@ -6,4 +6,4 @@ Adds a list of profiles using custom posts
 
 Add the shortcode `[lct_profiles]` to the page where you want the list of profiles to appear.
 
-Add profiles using the 'profiles' custom post type
+Add profiles using the 'profiles' custom post type.
