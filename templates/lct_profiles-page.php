@@ -22,7 +22,7 @@ Template Name: LCT profiles
 	<div class="lct_profile">
 		<h2><?php the_title(); ?></h2>
 			<?php if ( has_post_thumbnail() ) :?>
-				<?php the_post_thumbnail( 'medium', array('class' => 'alignleft')); ?>
+				<?php the_post_thumbnail( 'medium', array('class' => 'alignright')); ?>
 			<?php endif; ?>
 		<?php the_content() ?>
 	</div><!--.lct_profile-->
