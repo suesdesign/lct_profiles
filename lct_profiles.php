@@ -28,4 +28,4 @@ if( ! defined('ABSPATH') ) {
  */
 
 require plugin_dir_path( __FILE__ ) . 'includes/class-lct_profiles_register_posts.php';
-require plugin_dir_path( __FILE__ ) . 'includes/class-lct_profiles_templates.php';
+require plugin_dir_path( __FILE__ ) . 'includes/class-lct_profiles_shortcode.php';
